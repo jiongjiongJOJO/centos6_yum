@@ -1,0 +1,6 @@
+[centos-office]
+name=centos-office
+failovermethod=priority
+baseurl=https://vault.centos.org/6.10/os/x86_64
+gpgcheck=1
+gpgkey=https://vault.centos.org/6.10/os/x86_64/RPM-GPG-KEY-CentOS-6
